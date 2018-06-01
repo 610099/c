@@ -1,0 +1,15 @@
+Hello
+GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+hello.c
+main
+printf
+.symtab
+.strtab
+.shstrtab
+.rela.text
+.data
+.bss
+.rodata
+.comment
+.note.GNU-stack
+.rela.eh_frame
