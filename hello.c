@@ -1,3 +1,5 @@
+![c](pic/c.png)
+
 #include <stdio.h>
 
 int main()
