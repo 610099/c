@@ -1,4 +1,4 @@
-![image](https://github.com/610099/c/blob/master/pic/i.png)
+![i](pic/i.png)
 
 
 # 1 "hello.c"
