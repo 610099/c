@@ -99,8 +99,5 @@ gcc  XXX.o –o XXX.exe
 gcc  XXX.o –o XXX.jpg
 ```
 
-# c程式執行檔逆向==>逆向成組合語言
-
-# c程式執行檔逆向==>逆向成C語言
 
 
