@@ -1,3 +1,5 @@
+![i](pic/i.png)
+
 # 1 "hello.c"
 # 1 "<built-in>"
 # 1 "<command-line>"
