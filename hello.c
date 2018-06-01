@@ -1,4 +1,4 @@
-![c](/pic/c.png)
+![c](pic/c.png)
 
 #include <stdio.h>
 
