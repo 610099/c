@@ -1,4 +1,4 @@
-![c](https://github.com/610099/c/blob/master/pic/c.png)
+![c](pic/c.png)
 
 #include <stdio.h>
 
