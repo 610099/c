@@ -1,3 +1,6 @@
+	![s](pic/s.png)
+
+	
 	.file	"hello.c"
 	.section	.rodata
 .LC0:
